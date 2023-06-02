@@ -1,7 +1,7 @@
-\select@language {french}
-\contentsline {chapter}{\numberline {1}Le projet}{2}
-\contentsline {section}{\numberline {1.1}Sujet}{2}
-\contentsline {section}{\numberline {1.2}Lien avec le cours}{2}
-\contentsline {chapter}{\numberline {2}R\IeC {\'e}alisation}{3}
-\contentsline {section}{\numberline {2.1}Premi\IeC {\`e}re \IeC {\'e}tape}{3}
-\contentsline {section}{\numberline {2.2}Deuxi\IeC {\`e}me \IeC {\'e}tape}{3}
+\babel@toc {french}{}
+\contentsline {chapter}{\numberline {1}Le projet}{2}{}%
+\contentsline {section}{\numberline {1.1}Sujet}{2}{}%
+\contentsline {section}{\numberline {1.2}Lien avec le cours}{2}{}%
+\contentsline {chapter}{\numberline {2}Réalisation}{3}{}%
+\contentsline {section}{\numberline {2.1}Première étape}{3}{}%
+\contentsline {section}{\numberline {2.2}Deuxième étape}{3}{}%
